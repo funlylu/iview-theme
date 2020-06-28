@@ -29,17 +29,17 @@
   },
   "homepage": "https://github.com/jingsam/iview-theme#readme",
   "dependencies": {
-    "commander": "^2.9.0",
-    "download-git-repo": "^1.1.0",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1",
-    "gulp-clean-css": "^3.0.2",
-    "gulp-less": "^3.3.0",
-    "gulp-rename": "^1.2.2",
-    "inquirer": "^3.0.1",
+    "commander": "^5.1.0",
+    "download-git-repo": "^3.0.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-less": "^4.0.1",
+    "gulp-rename": "^2.0.0",
+    "inquirer": "^7.2.0",
     "ncp": "^2.0.0",
-    "ora": "^1.1.0",
-    "rimraf": "^2.5.4",
-    "run-sequence": "^1.2.2"
+    "ora": "^4.0.4",
+    "rimraf": "^3.0.2",
+    "run-sequence": "^2.2.1"
   }
 }
